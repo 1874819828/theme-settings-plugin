@@ -1,0 +1,13 @@
+{
+    "id": "theme-settings-plugin",
+    "name": "Theme Settings",
+    "version": "1.0.0",
+    "description": "为任务仪表盘提供F3快捷键主题设置功能",
+    "author": "Zh_Li",
+    "authorEmail": "61343394+1874819828@users.noreply.github.com",
+    "minAppVersion": "0.15.0",
+    "isDesktopOnly": false,
+    "css": [
+        "styles.css"
+    ]
+}
